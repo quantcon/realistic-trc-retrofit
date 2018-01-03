@@ -1,5 +1,7 @@
-# realistic-trc-retrofit
+# Realistic CB Radio Retrofit Project
 Assets for retrofitting a Realistic TRC-219 with Teensy 3.2
+
+![Old Realistic radio with Teensy guts](https://github.com/quantcon/realistic-trc-retrofit/blob/master/Photos/02.JPG "The guts")
 
 # Required tools:
 
